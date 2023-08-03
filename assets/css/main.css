@@ -2149,6 +2149,8 @@ input, select, textarea {
 
 				}
 
+		
+
 /* Footer */
 
 	#footer {
@@ -2198,3 +2200,25 @@ input, select, textarea {
 			}
 
 		}
+
+.projectImages{
+	width: 80%;
+	height: 80%;
+	border-radius: 20px;
+	display: block;
+	margin-right: auto;
+	margin-left: auto;
+}
+
+.button {
+	background-color: #1c87c9;
+	border: none;
+	color: white;
+	padding: 20px 34px;
+	text-align: center;
+	text-decoration: none;
+	display: inline-block;
+	font-size: 20px;
+	margin: 4px 2px;
+	cursor: pointer;
+}
